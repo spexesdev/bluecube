@@ -313,6 +313,7 @@
   color: var(--normal-text);
   font-size: 1.2em;
   margin-right: 20px;
+  cursor: pointer;
 }
 
 .user i::after {
